@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Hi, I'm Henrik van Peet 
+### 📜 By summer 2025 I will have finished my Masters degree in Software at Aalborg University 
+### 📫 Email: "henrik_peet@hotmail.com"
+### 🛑 This profile contains my hobby projects, beware, not all projects are finished.
 <!--
 **henneboy/henneboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
